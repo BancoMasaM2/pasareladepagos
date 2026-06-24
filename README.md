@@ -1,2 +1,2 @@
 # pasareladepagos
-la pasarela de pago se encarga de todas las solicitudes de pago, transferencia e ingreso de dinero
+la pasarela de pago se encarga de todas las solicitudes de pago, transferencia e ingreso de dinero, conversión de monedas, validación de transferencia y validación de que el usuario existe
